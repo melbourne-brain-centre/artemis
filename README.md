@@ -1,9 +1,9 @@
-# Nextcloud Server ☁
+# Artemis Server ☁
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nextcloud/server/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nextcloud/server/?branch=master)
 [![codecov](https://codecov.io/gh/nextcloud/server/branch/master/graph/badge.svg)](https://codecov.io/gh/nextcloud/server)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/209/badge)](https://bestpractices.coreinfrastructure.org/projects/209)
 
-**A safe home for all your data.**
+**A safe home for all your clinical data.**
 
 ![](https://raw.githubusercontent.com/nextcloud/screenshots/master/files/Files%20Sharing.png)
 
@@ -15,9 +15,9 @@
 * 🚀 **Expandable with hundreds of Apps** ...like [Calendar](https://github.com/nextcloud/calendar), [Contacts](https://github.com/nextcloud/contacts), [Mail](https://github.com/nextcloud/mail), [Video Chat](https://github.com/nextcloud/spreed) and all those you can discover in our [App Store](https://apps.nextcloud.com)
 * 🔒 **Security** with our encryption mechanisms, [HackerOne bounty program](https://hackerone.com/nextcloud) and two-factor authentication.
 
-You want to learn more about how you can use Nextcloud to access, share and protect your files, calendars, contacts, communication & more at home and at your organization? [**Learn about all our Features**](https://nextcloud.com/athome/).
+You want to learn more about how you can use Artemis to access, share and protect your files, calendars, contacts, communication & more at home and at your organization? [**Learn about all our Features**](https://nextcloud.com/athome/).
 
-## Get your Nextcloud 🚚
+## Get your Artemis 🚚
 
 - ☑️ [**Simply sign up**](https://nextcloud.com/signup/) at one of our providers either through our website or through the apps directly.
 - 🖥 [**Install** a server by yourself](https://nextcloud.com/install/#instructions-server) on your own hardware or by using one of our ready to use **appliances**
@@ -87,7 +87,7 @@ If you don’t have Handlebars installed yet, you can do it with this terminal c
 sudo npm install -g handlebars
 ```
 
-Then inside the root folder of your local Nextcloud development installation, run this command in the terminal every time you changed a `.handlebars` file to compile it:
+Then inside the root folder of your local Artemis development installation, run this command in the terminal every time you changed a `.handlebars` file to compile it:
 ```
 ./build/compile-handlebars-templates.sh
 ```
@@ -128,7 +128,7 @@ After that, please also include the autoloader file changes in your commits.
 All contributions to this repository from June, 16 2016 on are considered to be
 licensed under the AGPLv3 or any later version.
 
-Nextcloud doesn't require a CLA (Contributor License Agreement).
+Artemis doesn't require a CLA (Contributor License Agreement).
 The copyright belongs to all the individual contributors. Therefore we recommend
 that every contributor adds following line to the header of a file, if they
 changed it substantially:
